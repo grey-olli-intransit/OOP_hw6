@@ -1,0 +1,39 @@
+----> 04:49:53 Mon Sep 13 olli@dell15 ~/bin/cpp/geekbrains/OOP/homework6/build
+$ ./hw6t1 
+введите целое число: asd
+введите целое число: asd12asd
+введите целое число: 12as
+введите целое число: 12
+Ваше число 12
+----> 04:50:11 Mon Sep 13 olli@dell15 ~/bin/cpp/geekbrains/OOP/homework6/build
+$ ./hw6t2
+34
+
+56
+----> 04:50:18 Mon Sep 13 olli@dell15 ~/bin/cpp/geekbrains/OOP/homework6/build
+$ 
+----> 04:51:12 Mon Sep 13 olli@dell15 ~/bin/cpp/geekbrains/OOP/homework6/build
+$ ./blackjack2 
+		Welcome to Blackjack!
+
+How many players? (1 - 7): 1
+Enter player name: Olli
+
+Olli:	As	4s	(15)
+Дилер:	XX	Js	
+
+Olli, хотите ещё карту? (Y/N): y
+Olli:	As	4s	8s	(13)
+Olli, хотите ещё карту? (Y/N): y
+Olli:	As	4s	8s	3s	(16)
+Olli, хотите ещё карту? (Y/N): y
+Olli:	As	4s	8s	3s	Ah	(17)
+Olli, хотите ещё карту? (Y/N): n
+
+Дилер:	8c	Js	(18)
+Olli проиграл.
+
+Do you want to play again? (Y/N): n
+----> 04:51:53 Mon Sep 13 olli@dell15 ~/bin/cpp/geekbrains/OOP/homework6/build
+$ 
+
