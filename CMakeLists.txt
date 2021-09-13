@@ -1,0 +1,8 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+add_compile_options(-Wall -std=c++17)
+PROJECT(homework6)
+add_executable(hw6t1 src/hw6_task1.cpp)
+add_executable(hw6t2 src/hw6_task2.cpp)
+#add_executable(blackjack1 src/blackjack-mine.cpp)
+add_executable(blackjack2 src/blackjack-common.cpp)
+#target_include_directories(hw4t1 PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/include)
